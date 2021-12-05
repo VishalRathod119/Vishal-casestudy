@@ -23,17 +23,17 @@ payment_installments: Installments of payments
 payment_value:Value of payment
 
 Skills and technique used:
-Python
-EDA
-Machine Learning algorithms
-Visual Analysis
+Python,
+EDA,
+Machine Learning algorithms,
+Visual Analysis,
 
 Libraries used:
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Sklearn
+Pandas,
+Numpy,
+Seaborn,
+Matplotlib,
+Sklearn,
 
 Outcome:
 Out of all machine learning algorith i choose Random forest as best optimal model and Go with Random Forest model for Shoe price prediction.
